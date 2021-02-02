@@ -1,0 +1,37 @@
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csprojResolveAssemblyReference.cache
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Elemento.resources
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Form1.resources
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Properties.Resources.resources
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csproj.GenerateResource.Cache
+D:\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.exe
+D:\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.pdb
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.exe
+D:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.pdb
+E:\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.exe
+E:\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.pdb
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csprojAssemblyReference.cache
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Elemento.resources
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Form1.resources
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Properties.Resources.resources
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csproj.GenerateResource.cache
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.exe
+E:\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.pdb
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csprojAssemblyReference.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Elemento.resources
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Form1.resources
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Properties.Resources.resources
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csproj.GenerateResource.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csproj.CoreCompileInputs.cache
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.exe
+C:\Users\ronal\OneDrive\Área de Trabalho\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.pdb
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csprojAssemblyReference.cache
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Elemento.resources
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Form1.resources
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic_Table_go.Properties.Resources.resources
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.csproj.GenerateResource.cache
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.exe
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\obj\Debug\Periodic Table go.pdb
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.exe
+C:\Users\Usuario\Documents\Periodic Table go\Periodic Table go\bin\Debug\Periodic Table go.pdb
